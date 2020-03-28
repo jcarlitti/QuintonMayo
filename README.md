@@ -1,1 +1,1 @@
-This is the official webiste of Quinton Mayo
+This is the official website of Quinton Mayo
