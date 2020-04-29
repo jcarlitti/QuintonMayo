@@ -21,8 +21,7 @@
 			<li><a href="#two">On Air/Sports Reporting</a></li>
 			<li><a href="#three">Mayo Please Network</a></li>
 			<li><a href="#four">Mayo Please Music Group</a></li>
-			<li><a href="#five">Media</a></li>
-			<li><a href="#six">Contact Info</a></li>
+			<li><a href="#five">Contact Info</a></li>
 		</ul>
 	</nav>
 	<footer>
@@ -225,16 +224,14 @@
 								</div>
 							</article>
 							<article>
-								<a href="https://linktr.ee/TheFlockPod" class="image"><img src="images/pod2.JPG" alt="" /></a>
+								<a href="mayoplease.podbean.com" class="image"><img src="images/pod2.JPG" alt="" /></a>
 								<div class="inner">
 									<h4>The Flock Podcast</h4>
-									<p>Hosted by Quinton Mayo and his co-host Jaire Perry, 
-									Chris McMillian and Jacoby Freeman. A safe haven for 
-									these four brothers to talk about their journey thorugh life </p>
+									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
 								</div>
 							</article>
 							<article>
-								<a href="https://mayoplease.podbean.com" class="image"><img src="images/pod3.jpeg" alt="" /></a>
+								<a href="#" class="image"><img src="images/pod3.jpeg" alt="" /></a>
 								<div class="inner">
 									<h4>Quinton Mayo Show</h4>
 									<p>A haven for Mayo to talk all sports, this has 
@@ -247,7 +244,7 @@
 								</div>
 							</article>
 							<article>
-								<a href="https://mayoplease.podbean.com" class="image"><img src="images/pod4.jpeg" alt="" /></a>
+								<a href="#" class="image"><img src="images/pod4.jpeg" alt="" /></a>
 								<div class="inner">
 									<h4>Kirby on Sports</h4>
 									<p>You want passion, Josh Kirby brings it. Kirby 
@@ -258,7 +255,7 @@
 								</div>
 							</article>
 							<article>
-								<a href="https://mayoplease.podbean.com" class="image"><img src="images/pod5.png" alt="" /></a>
+								<a href="#" class="image"><img src="images/pod5.png" alt="" /></a>
 								<div class="inner">
 									<h4>In the Field</h4>
 									<p>A Redskins centric podcast hosted by John Bird, 
@@ -270,7 +267,7 @@
 								</div>
 							</article>
 							<article>
-								<a href="https://mayoplease.podbean.com" class="image"><img src="images/pod6.jpeg" alt="" /></a>
+								<a href="#" class="image"><img src="images/pod6.jpeg" alt="" /></a>
 								<div class="inner">
 									<h4>Hooop and the Harm</h4>
 									<p>Hosted by Matt Nguyen, this pod fcuses mainly
@@ -290,46 +287,9 @@
 					<p>More Info Coming soon</p>
 				</div>
 			</section>
-			
+
 			<!-- Five -->
-			<section id="five">
-				<div class="container">
-					<h3>Media</h3>
-					<div class="features">
-						<h4>Quinton Mayo Reel</h4>
-							<iframe width="560" height="315" 
-							src="https://www.youtube.com/embed/hIO9u-ehivI" frameborder="0" 
-							allow="accelerometer; autoplay; encrypted-media;
-							gyroscope; picture-in-picture" allowfullscreen>
-							</iframe>
-						<h4>Youtube Clips</h4>
-						<iframe width="560" height="315" 
-						src="https://www.youtube.com/embed/qvycNKI-tis" frameborder="0" 
-						allow="accelerometer; autoplay; encrypted-media; 
-						gyroscope; picture-in-picture" allowfullscreen>
-						</iframe>
-						<iframe width="560" height="315" 
-						src="https://www.youtube.com/embed/S-qwnjJucWU" frameborder="0" 
-						allow="accelerometer; autoplay; encrypted-media; 
-						gyroscope; picture-in-picture" allowfullscreen>
-						</iframe>
-						<iframe width="560" height="315" 
-						src="https://www.youtube.com/embed/MG026UwWp8g" frameborder="0" 
-						allow="accelerometer; autoplay; encrypted-media; 
-						gyroscope; picture-in-picture" allowfullscreen>
-						</iframe>
-						<iframe width="560" height="315"
-						src="https://www.youtube.com/embed/9PBIJuzdxIw" frameborder="0" 
-						allow="accelerometer; autoplay; encrypted-media; 
-						gyroscope; picture-in-picture" allowfullscreen>
-						</iframe>
-					</div>
-				</div>
-			</section>
-
-
-			<!-- Six -->
-				<section id="six">
+				<section id="five">
 					<div class="container">
 						<h3>Contact info</h3>
 						<ul>
